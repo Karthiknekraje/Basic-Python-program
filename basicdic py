@@ -1,0 +1,9 @@
+# Create a dictionary
+student_grades = {
+    "Alice": "A",
+    "Bob": "B",
+    "Charlie": "C"
+}
+
+# Print the dictionary
+print(student_grades)
